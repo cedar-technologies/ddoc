@@ -1,0 +1,2 @@
+# ddoc
+Documentation Generator
